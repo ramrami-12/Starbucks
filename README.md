@@ -1,5 +1,8 @@
 # ☕️ STARBUCKS
 #### starbucks 홈페이지 예제
+
+* [fastcampus](https://fastcampus.co.kr/) 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online 강의를 들으면서 작성한 내용입니다!
+
 [참고 및 원본 링크](https://github.com/ParkYoungWoong/starbucks-vanilla-app)
 
 [내 깃헙](https://github.com/ramrami-12/Starbucks.git)
