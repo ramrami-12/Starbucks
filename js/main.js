@@ -21,7 +21,6 @@ searchInputEl.addEventListener('blur', function () {
 // throttle -> scroll 할 때 함수가 무한대로 호출하는 것 방지 milliseconds 단위로 시간 추가
 const badgeEl = document.querySelector('header .badges');
 window.addEventListener('scroll', _.throttle(function () {
-    // console.log('scroll');
     if (window.scrollY > 500) {
         // 배지 숨기기
         // badgeEl.style.display = 'none';
